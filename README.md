@@ -86,8 +86,8 @@ Ability to work remotely: yes
     User has access to the data from HTML page with a table of contents.
     The project was handed over to the customer and integrated into
     the organization's internal website.
-4. Вeveloping a master's degree project related to by implementing WebAssembly
-    technology into various systems and developing tools for this.
+4. Developing a master's degree project related to by implementing WebAssembly
+    technology into various systems and creating new tools for this.
 
 ## Olympiads/Hackathons
 1. Twice winner of the internal Olympiad in programming in
