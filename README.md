@@ -1,12 +1,11 @@
 # Goncharov Maxim Sergeevich
-Male, born June 3, 1999
-Nizhny Novgorod
-Citizenship: Russia
+Male, born June 3, 1999\
+Citizenship: Russia Nizhny Novgorod\
 Ready for short business trips and relocation in a year.
 
 ## Career objective
 Middle C++\
-Employment: full
+Employment: full\
 Schedule: Flexible to continue your studies\
 Ability to work remotely: yes
 
