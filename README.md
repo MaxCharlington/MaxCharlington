@@ -35,12 +35,12 @@ Ability to work remotely: yes
 2021 Translator in the field of professional communication
 
 ## Experience (chronological order)
-1. "TK Yarbunker" LLC - System administrator, developer
+1. TK Yarbunker LLC - System administrator, developer
 2. NNGASU - Developer of an online learning website and its content
 3. NNGASU - Python programming teacher
 4. Intel Corporation - Intern C/C++ programmer
 5. AURIGA LLC - Junior C++ programmer
-6. CJSC "NORSI-TRANS" - Engineer programmer C++
+6. NORSI-TRANS CJSC - Engineer programmer C++
 
 ## Projects
 [GitHub](https://github.com/MaxCharlington)
