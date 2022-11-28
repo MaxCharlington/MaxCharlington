@@ -24,15 +24,13 @@ Ability to work remotely: yes
 - English language (upper-intermediate)
 
 ## Education
-- Average total
-   Schools №126 with in-depth study of English
-- Bachelor
-   2021 Nizhny Novgorod State University of Architecture and Civil
-   Engineering
-   International Faculty of Economics, Law and Management, Applied
-   informatics in economics
-- Сontinue to receive my master's degree in the same
-   direction
+- Secondary general education - №126 with in-depth study of English
+- Bachelor's degree - 2021 Nizhny Novgorod State University of Architecture and Civil Engineering\
+   International Faculty of Economics, Law and Management\
+   Applied informatics in economics\
+- Master's degree - in progress Nizhny Novgorod State University of Architecture and Civil Engineering\
+   International Faculty of Economics, Law and Management\
+   Applied informatics in economics
 
 ## Advanced training courses
 2021 Translator in the field of professional communication
