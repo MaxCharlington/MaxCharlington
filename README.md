@@ -25,7 +25,7 @@ Ability to work remotely: yes
 
 ## Education
 - Average total
-   Schools No126 with in-depth study of English
+   Schools №126 with in-depth study of English
 - Bachelor
    2021 Nizhny Novgorod State University of Architecture and Civil
    Engineering
