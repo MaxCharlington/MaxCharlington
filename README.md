@@ -103,6 +103,7 @@ several pet-projects, where I study new features of the latest standards,
 compile time calculations.\
 Studied GoLang, independently mastered JavaScript/TypeScript. I'm fond of
 Web technologies.\
+Capable of smooth language and development environment switching.\
 Had teaching experience - was engaged in mentoring students and preparation
 for the role of a novice developer.\
 I have experience in the selection and assembling of PC hardware.
