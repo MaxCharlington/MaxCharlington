@@ -100,7 +100,7 @@ Ability to work remotely: yes
     point of view of preparing a specialist for a specific vacancy.
     The program is written in Python.
 
-## Optional
+## Additionally
 I follow industry news, latest C and C++ standards, developing
 several pet-projects, where I study new features of the latest standards,
 compile time calculations.
