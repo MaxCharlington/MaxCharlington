@@ -101,11 +101,11 @@ Ability to work remotely: yes
     The program is written in Python.
 
 ## Additionally
-I follow industry news, latest C and C++ standards, developing\
-several pet-projects, where I study new features of the latest standards,\
+I follow industry news, latest C and C++ standards, developing
+several pet-projects, where I study new features of the latest standards,
 compile time calculations.\
-Studied GoLang, independently mastered JavaScript/TypeScript. I'm fond of\
+Studied GoLang, independently mastered JavaScript/TypeScript. I'm fond of
 Web technologies.\
-Had teaching experience - was engaged in mentoring students and preparation\
+Had teaching experience - was engaged in mentoring students and preparation
 for the role of a novice developer.\
-I have experience in the selection and assembling of PC hardware\
+I have experience in the selection and assembling of PC hardware.
