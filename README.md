@@ -72,7 +72,7 @@ Ability to work remotely: yes
     refueling of an oil barge depending on various delays of other
     barges The program was developed in VBA and is used in the organization.
 
-### Own projects
+### Personal projects
 1. Developed a project to automate the bankruptcy process with NextJS.
     Acted as a manager, team leader architect and chief developer.
     Clarified the terms of reference with the customer, developed a custom
