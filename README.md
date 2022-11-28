@@ -27,7 +27,7 @@ Ability to work remotely: yes
 - Secondary general education - №126 with in-depth study of English
 - Bachelor's degree - 2021 Nizhny Novgorod State University of Architecture and Civil Engineering\
    International Faculty of Economics, Law and Management\
-   Applied informatics in economics\
+   Applied informatics in economics
 - Master's degree - in progress Nizhny Novgorod State University of Architecture and Civil Engineering\
    International Faculty of Economics, Law and Management\
    Applied informatics in economics
