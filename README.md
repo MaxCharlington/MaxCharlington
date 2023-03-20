@@ -1,12 +1,11 @@
 # Goncharov Maxim Sergeevich
 Male, born June 3, 1999\
 Citizenship: Russia Nizhny Novgorod\
-Ready for short business trips and relocation in a year.
+Ready for short business trips.
 
 ## Career objective
 Middle C++\
 Employment: full\
-Schedule: Flexible to continue your studies\
 Ability to work remotely: yes
 
 ## Skills/Technologies
@@ -60,10 +59,9 @@ Ability to work remotely: yes
     analysis of code and development processes, integration testing,
     writing documentation.
 4. Developed an online education service for NNGASU courses on
-    English, written in NodeJS using
-    ExpressJS and EJS templating libraries and databases
-    MongoDB. Completed by the customer due to lack of
-    financing.
+    English, written in NodeJS using ExpressJS and EJS templating
+    libraries and databases MongoDB. Completed by the customer due to
+    lack of financing.
 5. Developed an automated system for working with an Excel document,
     which recalculated the time intervals of departure, arrival and
     refueling of an oil barge depending on various delays of other
@@ -75,27 +73,31 @@ Ability to work remotely: yes
     Clarified the terms of reference with the customer, developed a custom
     documentation. The database was PostgreSQL, code was written in TypeScript,
     usign GitHub Actions as CI/CD.
-2. Developed a project for the MERA summer school. Program
+2. Currently developing JavaScript compiler based on code nodes usage analysis
+    and transpiling to C++23 preserving semantics and observable program behaviour.
+    Core objctives are to improve JavaScript code performance for critical
+    cases. Source code is available [MaxCharlington/jsc](https://github.com/MaxCharlington/jsc)
+3. Developed a project for the MERA summer school. Program
     analyzed the user's location and offered to conduct
     leisure in the facility closest to the user, taking into account
     his interests. The original implementation was written in C# and
     included web-socket server with simple file database, and mobile
     application written with Xamarin.
-3. Graduation project of a web scraper. The program visits various web
+4. Graduation project of a web scraper. The program visits various web
     resources using Puppeteer and collects data into date tagged database.
     User has access to the data from HTML page with a table of contents.
     The project was handed over to the customer and integrated into
     the organization's internal website.
-4. Developing a master's degree project related to by implementing WebAssembly
+5. Developing a master's degree project related to by implementing WebAssembly
     technology into various systems and creating new tools for this.
 
 ## Olympiads/Hackathons
 1. Twice winner of the internal Olympiad in programming in
     NNGASU university. Solved all assigned tasks in C++
-2. Participant of a hackathon on the development of artificial intelligence.
-    Developed a program for the evaluation of an educational program with
-    point of view of preparing a specialist for a specific vacancy.
-    The program is written in Python.
+2. Participant (as team leader and architect) of a hackathon on the development
+    of artificial intelligence. Developed a program for the evaluation of an
+    educational program with point of view of preparing a specialist for
+    a specific vacancy. The program is written in Python.
 
 ## Additionally
 I follow industry news, latest C and C++ standards, developing
